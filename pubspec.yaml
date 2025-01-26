@@ -1,0 +1,74 @@
+name: assignment1
+description: "A new Flutter project."
+
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+ 
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons:
+  dio: ^5.0.0
+  retrofit: ^4.4.2
+  hive: ^2.0.0
+  cached_network_image: ^3.0.0
+  pull_to_refresh: ^2.0.0
+  json_serializable: ^6.9.3
+  json_annotation: ^4.9.0
+  fluttertoast: ^8.2.10
+  get: ^4.6.6
+  hive_flutter: ^1.1.0
+  path_provider: ^2.0.14
+  mockito: ^5.4.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+  retrofit_generator:
+  build_runner:
+
+
+
+
+
+flutter:
+  uses-material-design: true
+
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
